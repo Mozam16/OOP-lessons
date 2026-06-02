@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    background: burlywood;
+    /* border: 2px solid red; */
+    /* overflow-y: hidden; */
+}
+
+h1{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size:50px;
+    /* border: 2px solid blue; */
+    
+}
+
+.time{
+    height: 90vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size:120px;
+    font-weight: 700;
+    /* border: 2px solid orange; */
+}

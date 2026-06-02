@@ -111,3 +111,5 @@ setTimeout(() => {
 }, 8000);
 
 
+// ENCAPSULATION
+// A way of protecting data from been changed externally in ways you did not intend
